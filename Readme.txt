@@ -4,3 +4,5 @@ This is part of the git testing.
 Another git test.
 
 Initially it is going to contain just some random text files.
+
+The test branch will add and remove some files.
