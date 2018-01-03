@@ -1,0 +1,6 @@
+Log file:
+
+$ git add Log.txt
+$ git add File6.txt
+$ git commit -m "Add Log.txt and File6.txt"
+$ git push origin test
