@@ -3,7 +3,7 @@ Also for some git testing.
 
 To establish the git repository and authentication:
 
-- to initilize the empty git repo on SCS4:  git init
+- to initialize the empty git repo on SCS4:  git init
 - to add files:  git add .
 - to commit files:  git commit -m "blah blah"
 - to link the local repo with the remote:  git remote add origin git@github.com:Quanto99/MiscRepo.git
