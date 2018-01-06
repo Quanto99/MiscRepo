@@ -1,6 +1,16 @@
 Log file:
 
+$ git checkout test
 $ git add Log.txt
 $ git add File6.txt
 $ git commit -m "Add Log.txt and File6.txt"
 $ git push origin test
+
+
+$ git branch test1
+$ git checkout test1
+$ git rm File6.txt
+$ git add File7.txt
+$ git add Log.txt
+$ git commit -m "Remove File6.txt and add File7.txt"
+$ git push origin test1
